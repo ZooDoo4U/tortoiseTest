@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -10,6 +10,9 @@ namespace BittrexLogger
 {
     class Program
     {
+        //
+        //  Sample test to get logging working...
+        //
         static void Main( string[] args )
         {
             // BittrexLoggerLibrary.K\ log = new Logger();
